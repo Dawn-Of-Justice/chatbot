@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the code for a chatbot developed using Python. The chatbot is designed to interact with users, answer questions based on provided documents, and provide a user-friendly interface.
 
-![cat-gif](https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif)
+![cat-gif](https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif) ![person](https://media.licdn.com/dms/image/D5622AQETJHP2BTWgMA/feedshare-shrink_2048_1536/0/1707699779812?e=2147483647&v=beta&t=muxSQenGAz_xzkIAaSyr0uO4lpxvFh3WAYS5b0O_0mM)
 
 ## Features
 - **Document-Based Question Answering**: The chatbot is capable of answering questions based on the content of a specified document. It utilizes advanced natural language processing techniques to understand and respond to user queries effectively.
