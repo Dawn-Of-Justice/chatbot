@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import bot
 
-doc ="attention-is-all-you-need-Paper.pdf"
+doc ="files/attention-is-all-you-need-Paper.pdf"
 
 def beutify(name):
 

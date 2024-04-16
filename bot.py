@@ -47,7 +47,7 @@ class chatbot:
 
 if __name__ == "__main__":
 
-    bot = chatbot("attention-is-all-you-need-Paper.pdf")
+    bot = chatbot("files/attention-is-all-you-need-Paper.pdf")
 
     while True:
         try:
