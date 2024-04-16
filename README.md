@@ -5,7 +5,7 @@ This repository contains the code for a chatbot developed using Python. The chat
 
 ## Features
 - **Document-Based Question Answering**: The chatbot is capable of answering questions based on the content of a specified document. It utilizes advanced natural language processing techniques to understand and respond to user queries effectively.
-- **User Interface**: The chatbot comes with a simple and intuitive user interface built using Flask framework, allowing users to interact with the bot seamlessly through a web browser.
+- **User Interface**: The chatbot comes with a simple and intuitive user interface built using the Flask framework, allowing users to interact with the bot seamlessly through a web browser.
 - **Contextual Understanding**: The chatbot incorporates contextual understanding by providing pieces of context from the document to assist in generating accurate responses to user queries.
 
 ## Installation
@@ -16,7 +16,7 @@ To run the chatbot locally, follow these steps:
 4. Ensure that the document you want the chatbot to reference is available and provide its filename or path accordingly in the code.
 
 ## Usage
-To use the chatbot, execute the `app.py` file. This will start the Flask server and make the chatbot accessible through a web browser. Users can then interact with the chatbot by entering their queries in the provided input box and receiving responses in real-time.
+To use the chatbot, execute the `app.py` file. This will start the Flask server and make the chatbot accessible through a web browser. Users can then interact with the chatbot by entering their queries in the provided input box and receiving responses in real time.
 
 ## Code Structure
 - `bot.py`: Contains the implementation of the chatbot class, including methods for initializing the chatbot, preparing the document for question answering, and handling user queries.
@@ -25,7 +25,7 @@ To use the chatbot, execute the `app.py` file. This will start the Flask server 
 
 ## Configuration
 - **Document**: Specify the document filename or path in the `app.py` file to define the document the chatbot will reference for question answering.
-- **API Key**: Ensure that you have a valid Google API key and set it as an environment variable named `API_KEY` for accessing Google's services.
+- **API Key**: Ensure that you have a valid Google API key and set it as an environment variable named `API_KEY` for accessing Google's services in the config file, a sample config file is provided
 
 ## Dependencies
 - `dotenv`: For loading environment variables from a `.env` file.
