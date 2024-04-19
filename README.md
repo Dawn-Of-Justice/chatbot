@@ -27,7 +27,7 @@ To use the chatbot, execute the `app.py` file. This will start the Flask server 
 
 ## Configuration
 - **Document**: Specify the document filename or path in the `app.py` file to define the document the chatbot will reference for question answering.
-- **API Key**: Ensure that you have a valid Google API key and set it as an environment variable named `API_KEY` for accessing Google's services in the .env file
+- **API Key**: Ensure that you have a valid Google API key and set it as an environment variable named `API_KEY` for accessing Google's services in the .env file. Note: Rename the example.env file to .env
 
 ## Dependencies
 - `dotenv`: For loading environment variables from a `.env` file.
