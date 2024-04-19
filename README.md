@@ -35,5 +35,9 @@ To use the chatbot, execute the `app.py` file. This will start the Flask server 
 - `Flask`: Web framework used for building the chatbot's user interface.
 - `PyPDF2`: Library for reading PDF files and extracting text content.
 
+## References
+- https://github.com/karndeepsingh/ApplicationsBuildWithLLMs/blob/main/Langchain_With_Gemini_And_Build_RAG.ipynb
+- https://github.com/binary-hood/ChatBot
+
 ## License
 This project is licensed under [MIT] - see the [LICENSE](LICENSE) file for details.
